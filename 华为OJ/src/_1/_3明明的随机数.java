@@ -1,0 +1,7 @@
+package _1;
+
+/**
+ * Created by sharp on 2017/7/10 - 13:53
+ */
+public class _3明明的随机数 {
+}

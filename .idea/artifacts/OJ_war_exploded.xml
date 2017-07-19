@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="华为OJ:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/OJ_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="华为OJ/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="华为OJ" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
